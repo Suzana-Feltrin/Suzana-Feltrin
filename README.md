@@ -1,9 +1,5 @@
 ### Oi! 👋
 
-<!--
-**Suzana-Feltrin/Suzana-Feltrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 [<img src="https://img.shields.io/github/followers/Suzana-Feltrin?label=follow&style=for-the-badge" height="22" title="Follow me" />](https://github.com/Suzana-Feltrin) 
 
 - 📚 Estudante de Medicina pela Universidade Estadual Paulista - UNESP.
@@ -13,5 +9,5 @@
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=Suzana-Feltrin&show_icons=true&theme=graywhite" /></a>
 </p> 
-   
+  
   
